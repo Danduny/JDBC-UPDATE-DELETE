@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DeleteQuery/DeleteQuery.iml" filepath="$PROJECT_DIR$/DeleteQuery/DeleteQuery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/updateQuery/updateQuery.iml" filepath="$PROJECT_DIR$/updateQuery/updateQuery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/update_delete.iml" filepath="$PROJECT_DIR$/.idea/update_delete.iml" />
+    </modules>
+  </component>
+</project>
